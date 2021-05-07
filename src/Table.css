@@ -1,0 +1,12 @@
+.box{
+    margin: 40px 10px auto;
+    border:1px solid black;
+    width: auto;
+    padding: 0 20px;
+    font-family:'Times New Roman', Times, serif;
+    display: grid;
+    justify-content:center;
+}
+#size{
+    font-size: 30px;
+}
